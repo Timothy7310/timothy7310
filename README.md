@@ -1,4 +1,4 @@
-# ![Hi, I'm Timothy](assets/title.png)
+# ![Hi, I'm Timothy](assets/profile.png)
 
 ## About
 
